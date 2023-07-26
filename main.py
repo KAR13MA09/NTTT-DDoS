@@ -874,8 +874,8 @@ def title():
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"██║ ╚████║   ██║      ██║      ██║     \n")
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝     \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of NTTT   "+Fore.LIGHTCYAN_EX  +"      ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Введите [help], чтобы увидеть команды    "+Fore.LIGHTCYAN_EX +"       ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Telegram @davidtuantu23   "+Fore.LIGHTCYAN_EX +"   ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Введите [help], чтобы увидеть команды     "+Fore.LIGHTCYAN_EX +"       ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Telegram @davidtuantu23    "+Fore.LIGHTCYAN_EX +"   ║\n")
     stdout.write("\n")
 ##############################################################################################
 def command():
