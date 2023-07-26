@@ -816,13 +816,11 @@ def help():
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.lime+": \x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"MB Bank "+Fore.aqua+": \x1b[38;2;0;255;263013092007\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"MoMo "+Fore.fuchsia+": \x1b[38;2;0;255;\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
-    stdout.write("\n")    
+    stdout.write("\n")        
 ##############################################################################################
 def layer7():
     clear()
