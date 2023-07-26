@@ -803,8 +803,6 @@ def help():
     stdout.write("                           "+Fore.LIGHTCYAN_EX    +" ██╔══██║██╔══╝  ██║     ██╔═══╝   \n") 
     stdout.write("                           "+Fore.LIGHTCYAN_EX    +" ██║  ██║███████╗███████╗██║      \n")  
     stdout.write("                           "+Fore.LIGHTCYAN_EX    +" ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝      \n") 
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"layer7   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show Layer7 Methods                    "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"layer4   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show Layer4 Methods                    "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"tools    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show tools                             "+Fore.LIGHTCYAN_EX+"║\n")
@@ -813,15 +811,14 @@ def help():
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╠═════════════════════════════════════════════════════╣\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Cảm ơn vì đã sử dụng NTTT.            "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Plz star project :)))                 "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/KAR13MA09/KARMA-DDoS       "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"╚═════════════════════════════════════════════════════╝\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/KAR13MA09/                 "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("\n")
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189mHyuk\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;189mYone不\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mSkyWtkh\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189mNguyenTrinhTuanTu")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;189mNguyenTrinhTuanTu")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mNguyenTrinhTuanTu")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
     stdout.write("\n")    
 ##############################################################################################
@@ -834,8 +831,6 @@ def layer7():
     stdout.write("           "+Fore.LIGHTCYAN_EX    +" ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗       ██╔╝  \n")
     stdout.write("           "+Fore.LIGHTCYAN_EX    +" ███████╗██║  ██║   ██║   ███████╗██║  ██║       ██║   \n")
     stdout.write("           "+Fore.LIGHTCYAN_EX    +" ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝       ╚═╝   \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
-    stdout.write("            "+Fore.LIGHTCYAN_EX            +"╔══════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"cfb    "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Bypass CF Attack                         "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pxcfb  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Bypass CF Attack With Proxy              "+Fore.LIGHTCYAN_EX+"║\n")                  
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"cfreq  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Bypass CF UAM, CAPTCHA, BFM (request)    "+Fore.LIGHTCYAN_EX+"║\n")
@@ -856,7 +851,6 @@ def layer7():
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"soc    "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Socket Attack                            "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pxraw  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Proxy Request Attack                     "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pxsoc  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Proxy Socket Attack                      "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("            "+Fore.LIGHTCYAN_EX            +"╚══════════════════════════════════════════════════════╝\n") 
     stdout.write("\n")
 ##############################################################################################
 def layer4():
@@ -868,12 +862,8 @@ def layer4():
     stdout.write("                        "+Fore.LIGHTCYAN_EX    +"██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗    ╚════██║  \n")
     stdout.write("                        "+Fore.LIGHTCYAN_EX    +"███████╗██║  ██║   ██║   ███████╗██║  ██║         ██║  \n")
     stdout.write("                        "+Fore.LIGHTCYAN_EX    +"╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝         ╚═╝  \n")                                 
-   
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"udp   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" UDP Attack                                "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"tcp   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" TCP Attack                                "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"╚═════════════════════════════════════════════════════╝\n") 
     stdout.write("\n")
 ##############################################################################################
 def tools():
@@ -885,12 +875,9 @@ def tools():
     stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"██║╚██╗██║   ██║      ██║      ██║    \n")
     stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"██║ ╚████║   ██║      ██║      ██║    \n")
     stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝    \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"geoip "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Tra cứu địa chỉ IP địa lý"+Fore.LIGHTCYAN_EX+"                 ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"dns   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Tra cứu DNS cổ điển  "+Fore.LIGHTCYAN_EX+"                     ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"subnet"+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Tra cứu địa chỉ IP mạng con  "+Fore.LIGHTCYAN_EX+"             ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"╚═════════════════════════════════════════════════════╝\n") 
     stdout.write("\n")
 ##############################################################################################
 def title():
@@ -901,12 +888,9 @@ def title():
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"██║╚██╗██║   ██║      ██║      ██║     \n")
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"██║ ╚████║   ██║      ██║      ██║     \n")
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝     \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX        +"══╦═════════════════════════════════╦══\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of NTTT  "+Fore.LIGHTCYAN_EX  +"       ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Введите [help], чтобы увидеть команды    "+Fore.LIGHTCYAN_EX +"       ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Telegram @davidtuantu23   "+Fore.LIGHTCYAN_EX +"   ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def command():
