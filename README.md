@@ -43,7 +43,7 @@
  - Subnet  | Subnet IP Address Lookup
 ```
 
-## Intall
+## Install the tool software
 
 1. git clone https://github.com/KAR13MA09/NTTT-DDoS
 2. cd NTTT-DDoS
