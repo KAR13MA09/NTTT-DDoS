@@ -1,11 +1,6 @@
 <div align=center>
  
-# KAR13MA09
- <p>
- <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/HyukIsBack/KARMA-DDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
- 
+# KAR13MA09 -NTTT-DDoS 
 </p>
  DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
  Don't attack any websites you don't own it<br/>
@@ -49,22 +44,9 @@
  - Subnet  | Subnet IP Address Lookup
 ```
 
-git clone https://github.com/KAR13MA09/KARMA-DDoS.git
+#intall
 
-Install Python3 modules
- - pip3 install -r requirements.txt  or  pip install -r requirements.txt
-Install Chrome (or update it lastest version)
- - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
- - apt-get install ./google-chrome-stable_current_amd64.deb
-
-OR
- - python3 setup.py
-
-```
-
-## Example
-```sh
-Use DDoS Panel   : python3 main.py
-Use command line : python3 main.py <method> <target> <thread> <time>
-      └──────────> python3 main.py cfb https://example.com 100 30
-```
+1. git clone https://github.com/KAR13MA09/NTTT-DDoS
+2. cd NTTT-DDoS
+3. Python setup.py	
+4. Python main.py
