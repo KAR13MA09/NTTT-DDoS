@@ -2,11 +2,10 @@
  
 # KAR13MA09 -NTTT-DDoS 
 </p>
- DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
- Don't attack any websites you don't own it<br/>
- This was created for educational purposes<br/>
- All responsibilities and disadvantages of using this program is for the user.
- 
+ DDoS Script (DDoS Panel) với nhiều Bypass (Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / v.v.)<br/><br/>
+ Không tấn công bất kỳ trang web nào mà bạn không sở hữu
+ Điều này được tạo ra cho mục đích giáo dục<br/>
+ Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm ! <br/> 
 
 ## Language</br>
 
