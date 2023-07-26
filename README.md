@@ -7,7 +7,7 @@
  Điều này được tạo ra cho mục đích giáo dục<br/>
  Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm ! <br/> 
 
-## Language</br>
+# Language</br>
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
