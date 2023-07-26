@@ -12,7 +12,6 @@
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
-
 ## Methods
 
 ```sh
@@ -44,7 +43,7 @@
  - Subnet  | Subnet IP Address Lookup
 ```
 
-#intall
+## Intall
 
 1. git clone https://github.com/KAR13MA09/NTTT-DDoS
 2. cd NTTT-DDoS
