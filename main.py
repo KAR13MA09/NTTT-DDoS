@@ -818,8 +818,7 @@ def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
     stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
     stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")        stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"MB Bank "+Fore.RED+":\x1b[38;2;255;26301309207\n"   
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"MôMô "+Fore.RED+":\x1b[38;2;0;255;0878319631\n"
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")        
 stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
     stdout.write("\n")        
 ##############################################################################################
