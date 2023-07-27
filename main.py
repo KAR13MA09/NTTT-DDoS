@@ -813,16 +813,8 @@ def help():
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Plz star project :)))                 "+Fore.LIGHTCYAN_EX+"\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/KAR13MA09/KARMA-DDoS       "+Fore.LIGHTCYAN_EX+"\n")
     stdout.write("\n")
-##############################################################################################
-def credit():
-    stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+":\x1b[38;2;0;255;KAR13MA09\n")        
-stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
-    stdout.write("\n")        
-##############################################################################################
-def layer7():
+
+ def layer7():
     clear()
     stdout.write("                                                                                                            \n")   
     stdout.write("           "+Fore.LIGHTWHITE_EX   +" ██╗      █████╗ ██╗   ██╗███████╗██████╗     ███████╗ \n")
