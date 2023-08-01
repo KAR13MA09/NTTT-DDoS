@@ -12,6 +12,10 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
+<img src="https://github.com/KAR13MA09/NTTT-DDoS/blob/main/NTTT-DDoS.png"/></br>
+</div>
+
+
 #  Methods
 
 ```sh
