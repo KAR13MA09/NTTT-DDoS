@@ -12,9 +12,13 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
+# Img
+
 <img src="https://github.com/KAR13MA09/NTTT-DDoS/blob/main/NTTT-DDoS.png"/></br>
 </div>
 
+<img src="https://github.com/KAR13MA09/NTTT-DDoS/blob/main/363408931_1486020831934804_2330300330219003341_n.png"/></br>
+</div>
 
 #  Methods
 
