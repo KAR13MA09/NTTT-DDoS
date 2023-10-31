@@ -816,11 +816,11 @@ def help():
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;KAR13MA09\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;KAR13MA09\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189m𝐍𝐠𝐮𝐲𝐞̂̃𝐧 𝐓𝐫𝐢̣𝐧𝐡 𝐓𝐮𝐚̂́𝐧 𝐓𝐮́\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;189m𝐍𝐠𝐮𝐲𝐞̂̃𝐧 𝐓𝐫𝐢̣𝐧𝐡 𝐓𝐮𝐚̂́𝐧 𝐓𝐮́\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189m𝐊𝐀𝐑𝟏𝟑𝐌𝐀𝟎𝟗\n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
-    stdout.write("\n")    
+    stdout.write("\n")   
 ##############################################################################################
 def layer7():
     clear()
@@ -889,12 +889,12 @@ def title():
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"██║ ╚████║   ██║      ██║      ██║     \n")
     stdout.write("                    "+Fore.LIGHTCYAN_EX    +"╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝     \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of NTTT   "+Fore.LIGHTCYAN_EX  +"      ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Введите [help], чтобы увидеть команды     "+Fore.LIGHTCYAN_EX +"     ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"         Contact Dev - Telegram @davidtuantu23    "+Fore.LIGHTCYAN_EX +" ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Type [help] to see commands     "+Fore.LIGHTCYAN_EX +"     ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Contact Dev - Telegram @davidtuantu23    "+Fore.LIGHTCYAN_EX +" ║\n")
     stdout.write("\n")
 ##############################################################################################
 def command():
-    stdout.write(Fore.LIGHTCYAN_EX+"╔═══"+Fore.LIGHTCYAN_EX+"[""root"+Fore.LIGHTGREEN_EX+"@"+Fore.LIGHTCYAN_EX+"NguyenTrinhTuanTu"+Fore.CYAN+"]"+Fore.LIGHTCYAN_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
+    stdout.write(Fore.LIGHTCYAN_EX+"╔═══"+Fore.LIGHTCYAN_EX+"[""𝐫𝐨𝐨𝐭"+Fore.LIGHTGREEN_EX+"@"+Fore.LIGHTCYAN_EX+"𝐊𝐀𝐑𝟏𝟑𝐌𝐀𝟎𝟗"+Fore.CYAN+"]"+Fore.LIGHTCYAN_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
     command = input()
     if command == "cls" or command == "clear":
         clear()
